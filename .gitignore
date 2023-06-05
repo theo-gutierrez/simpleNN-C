@@ -50,3 +50,12 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# VS code
+*.vscode/
+
+# Build
+build/
+
+# Personal files/folders
+home-data-for-ml-course/

@@ -3,4 +3,4 @@ project(SimpleNN-C)
 
 set(CMAKE_C_STANDARD 11)
 
-add_executable(SimpleNN-C main.c)
+add_executable(SimpleNN-C initialize_parameters.c main.c)
