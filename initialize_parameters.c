@@ -1,7 +1,8 @@
-#include "initialize_parameters.h"
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
+
+#include "structures.h"
 
 struct Parameters initialize_parameters(int n_x, int n_h, int n_y) {
     struct Parameters params;
